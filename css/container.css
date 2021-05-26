@@ -1,0 +1,30 @@
+.container,
+.container-fluid {
+    text-align: justify;
+    padding: 30px;
+}
+
+.container-fluid {
+    background-color: cornsilk;
+    border: 2px solid black;
+}
+
+.cf-2 {
+    background-color: darkgrey;
+}
+
+.container {
+    background-color: cornsilk;
+    border: 2px solid black;
+}
+
+.con-2 {
+    background-color: darkgrey;
+}
+
+.head {
+    background-color: lightseagreen;
+    color: maroon;
+    font-family: fantasy;
+    text-align: center;
+}
