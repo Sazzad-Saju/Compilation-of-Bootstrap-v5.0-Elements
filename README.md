@@ -27,6 +27,5 @@ Topics:
 
 ---
 External Link
----
-Documentation: https://getbootstrap.com/
-
+--- 
+Documentation in Bangali Language: https://www.scribd.com/document/509477234/Self-Practicing-of-Bootstrap-5-0
