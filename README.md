@@ -4,7 +4,7 @@
 Introduction
 ---
 
-Practice files of basic <b>Bootstrap 5.0 </b> elements and classes. Codes are simplified and shortened. For more details goto <b>getbootstrap.com</b>.
+Practice files of basic <b>Bootstrap 5.0 </b> classes and elements. Codes are simplified and shortened. For more details goto <b>getbootstrap.com</b>.
 
 
 ---
